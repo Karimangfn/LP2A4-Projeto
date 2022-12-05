@@ -185,7 +185,7 @@ $ npm run dev:server
 
 # Vídeo de apresentação
 
-<a href="https://www.youtube.com/">YouTube</a> 
+<a href="https://www.youtube.com/watch?v=D9UHZoDMDJ0&ab_channel=KarimanGomes">YouTube</a> 
 
 # Equipe de Desenvolvimento
 
