@@ -143,7 +143,7 @@ Links utilizados como **input** (~1000 registros cada):
 
 # Vídeo de apresentação
 
-<a href="https://www.youtube.com/watch?v=D9UHZoDMDJ0&ab_channel=KarimanGomes">YouTube</a> 
+<a href="https://www.youtube.com/watch?v=D9UHZoDMDJ0&ab_channel=KarimanGomes">LP2A4 - Code Challenge Juntos Somos Mais - Apresentação</a> 
 
 # Equipe de Desenvolvimento
 
