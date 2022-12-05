@@ -147,42 +147,6 @@ Links utilizados como **input** (~1000 registros cada):
   - Navegação entre as fotos dos clientes;
   - Filtros pela região e/ou classificação do cliente.
 
-
-
-# Entrega do projeto
-
-O Código Fonte está hospedado na Plataforma Github, para acessar basta segiur esse link XXXXXXXXX.
-
-
-# Como testar a aplicação
-
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
-### Back End (servidor)
-
-```bash
-# Clone este repositório
-$ git clone <https://github.com/todosAmamJava>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
-```
-
 # Vídeo de apresentação
 
 <a href="https://www.youtube.com/watch?v=D9UHZoDMDJ0&ab_channel=KarimanGomes">YouTube</a> 
