@@ -134,6 +134,13 @@ Links utilizados como **input** (~1000 registros cada):
   - Navegação entre as fotos dos clientes;
   - Filtros pela região e/ou classificação do cliente.
 
+# Solução para o Desafio
+- Uso do framework Spring MVC para desenvolvimento Front-end e Back-end da aplicação
+
+- Para a resolução do Code Challenge foi decidido a estrategia de consumir os dados Json e Csv divididos pelas informações fornecidas de cada pessoa (Location, Name, Dob, Registered, Timezone, Coordinates, Picture) para então armazenar esses dados separadamente no banco de dados, assim tendo maior facilidade na hora de manipular os dados para representa-los nas paginas JSP e na criação da API
+
+- Com a API feita e os dados armazenados no banco de dados, foi feita a recuperação desses dados em paginas JSP que foram divididas em filtros pela região (Norte, Nordeste, Centro-Oeste, Sul e Sudeste), por Coordenadas (Especial, Normal e Trabalhoso) e uma pagina Onde é retornado todos os dados daquela Pessoa
+
 # Vídeo de apresentação
 
 <a href="https://www.youtube.com/watch?v=D9UHZoDMDJ0&ab_channel=KarimanGomes">YouTube</a> 
