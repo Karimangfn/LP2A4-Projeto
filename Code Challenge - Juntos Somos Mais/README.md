@@ -121,8 +121,6 @@ Dada a **região do usuário** e seu **tipo de classificação**, responda a **l
 
 Toda manipulação dos dados é feita **em memória**. O carregamento dos dados de input é feita por meio de request HTTP **ao subir a aplicação**, ou seja, antes do App estar `ready`, será feito um request para os links fornecidos abaixo.
 
-Além da lista dos usuários elegíveis, para permitir navegação entre os registros, **foram implementados** os seguintes metadados de paginação:
-
 Links utilizados como **input** (~1000 registros cada):
 
 - https://storage.googleapis.com/juntossomosmais-code-challenge/input-backend.csv
