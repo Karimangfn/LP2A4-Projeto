@@ -1,11 +1,3 @@
-<p>
-<center>
-<a href="https://github.com/todosAmamJava/Projeto">
-<img alt="LOGO Todos Amam Java" title="Todos Amam Java" src="https://github.com/F3RREIRA/todosAmamJava/blob/main/img/Logo%20Todos%20Amam%20Java.png" width="500px" align="center"/>
-</center>
-</p>
-</a>
-
 # Projeto Full-stack - API Java (Code Challenge Juntos Somos+)
 
 Esse projeto, apresenta o trabalho final desenvolvido dentro da disciplina de Linguagem de Programação II, do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
